@@ -16,6 +16,7 @@ namespace AzureTest2.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Prakhar Goel";
+            ViewBag.Message = "Pranav Bajpai";
 
             return View();
         }
